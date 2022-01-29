@@ -14,7 +14,6 @@
 > git add file_name 
 
 Добалвяет файл file_name для отслеживания
-
 > git commit -m "some message"
 
 фиксирует все файлы, которые добавлены для отслеживания
@@ -38,6 +37,7 @@
 > git checkout master 
 
 Вернуться к актуальному состоянию
+
 ! [error] (pic.jpg)
 
 ## ветки в git
