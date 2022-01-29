@@ -38,3 +38,4 @@
 > git checkout master 
 
 Вернуться к актуальному состоянию
+! [error] (pic.jpg)
