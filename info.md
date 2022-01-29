@@ -40,6 +40,10 @@
 Вернуться к актуальному состоянию
 ! [error] (pic.jpg)
 
+## ветки в git
+Чтобы посмотреть все ветки:
+> git branch
+
 Для создания ветки branch_name:
 > git branch branch_name
 
