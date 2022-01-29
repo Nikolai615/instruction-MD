@@ -55,4 +55,4 @@
 > git branch -d branch_name
 
 Для  удаления ветки игнорируя все ошибки:
-> git branch -d branch_name
+> git branch -D branch_name
